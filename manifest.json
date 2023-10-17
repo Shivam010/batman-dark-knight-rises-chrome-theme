@@ -1,0 +1,108 @@
+{
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDE+IHj7E72eRPI2EpXjFjjWhO2BpWpINAPdhW7SJk28YMgkMGqR1j6QzBC5n5Un1ENUXLgZHuDoYF3RgY3WVtexp8FnOJYB7yBAiM1VHUjpA3LceK/Ifv7urfv/IZ7Cx++0HHKUhyjmV8nyZ9zlLXlxmYYQ4SRrQ5ahdF00GldiQIDAQAB",
+   "name": "Batman Dark Knight Rises theme",
+   "theme": {
+      "colors": {
+         "bookmark_text": [
+            237,
+            237,
+            237
+         ],
+         "button_background": [
+            38,
+            38,
+            38,
+            0
+         ],
+         "control_background": [
+            237,
+            237,
+            237,
+            0
+         ],
+         "frame": [
+            0,
+            0,
+            0
+         ],
+         "frame_inactive": [
+            0,
+            0,
+            0
+         ],
+         "frame_incognito": [
+            82,
+            82,
+            82
+         ],
+         "frame_incognito_inactive": [
+            82,
+            82,
+            82
+         ],
+         "ntp_background": [
+            0,
+            0,
+            0
+         ],
+         "ntp_header": [
+            220,
+            220,
+            220
+         ],
+         "ntp_link": [
+            235,
+            235,
+            235
+         ],
+         "ntp_section": [
+            163,
+            163,
+            163
+         ],
+         "ntp_section_link": [
+            255,
+            255,
+            15
+         ],
+         "ntp_section_text": [
+            237,
+            237,
+            237
+         ],
+         "ntp_text": [
+            255,
+            255,
+            255
+         ],
+         "tab_background_text": [
+            230,
+            230,
+            230
+         ],
+         "tab_text": [
+            255,
+            255,
+            255
+         ],
+         "toolbar": [
+            0,
+            0,
+            0
+         ]
+      },
+      "images": {
+         "theme_frame": "images/DKRFrame.png",
+         "theme_ntp_background": "images/DKRBackground.png",
+         "theme_tab_background": "images/a1.png",
+         "theme_toolbar": "images/black.png"
+      },
+      "properties": {
+         "ntp_background_alignment": "center top",
+         "ntp_background_repeat": "no-repeat"
+      }
+   },
+   "update_url": "http://clients2.google.com/service/update2/crx",
+   "version": "1.6",
+   "manifest_version": 2
+}
